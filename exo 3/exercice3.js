@@ -3,5 +3,3 @@
 document.getElementById("bouton").addEventListener("dblclick", function(){
     alert('event déclenché')
 });
-
-

@@ -3,5 +3,3 @@
 document.getElementById("cliquezmoi").addEventListener("click", function(){
     alert('Click')
 });
-
-
